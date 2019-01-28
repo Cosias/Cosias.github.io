@@ -47,7 +47,7 @@ p{
 }
 
 #skills{
- color: silver;
+  color: silver;
   margin-top: 50px;
 }
 
@@ -111,7 +111,7 @@ p{
   display:inline;
 }
 
-@media all and (max-width:768px){
+@media all and (max-width: 600px){
   .jumbotron{
 /*     visibility: hidden; */
     display: none;
